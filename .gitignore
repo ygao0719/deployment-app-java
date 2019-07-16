@@ -1,7 +1,7 @@
 HELP.md
 .gradle
 /build/
-!/build/libs/**
+
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
